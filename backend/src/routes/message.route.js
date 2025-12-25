@@ -10,5 +10,5 @@ router.get('/receive', (req, res) => {
     res.send('Receive message endpoint!');
 });
 
-
 export default router;
+
